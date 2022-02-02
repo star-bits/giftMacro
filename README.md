@@ -2,7 +2,7 @@
 
 글로 설명하면 길어짐. https://youtu.be/bjQaods52NY (단톡방 멤버들의 개인정보 보호를 위해 480p로 화질을 낮춤)
 
-scrcpy가 필요함. https://github.com/Genymobile/scrcpy
+[scrcpy](https://github.com/Genymobile/scrcpy)가 필요함. 
 
 메커니즘은 다음과 같음:
 1. scrcpy를 통해 폰의 화면을 컴에 미러링하고, 
