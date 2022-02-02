@@ -1,6 +1,6 @@
 # giftMacro
 
-글로 설명하면 길어짐. https://youtu.be/bjQaods52NY (단톡방 멤버들의 개인정보 보호를 위해 480p로 화질을 낮춤)
+[시연 ](https://youtu.be/bjQaods52NY) (단톡방 멤버들의 개인정보 보호를 위해 480p로 화질을 낮춤)
 
 [scrcpy](https://github.com/Genymobile/scrcpy)가 필요함. 
 
