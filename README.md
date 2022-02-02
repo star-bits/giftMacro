@@ -2,10 +2,8 @@
 
 [시연 영상](https://youtu.be/bjQaods52NY) (단톡방 멤버들의 개인정보 보호를 위해 480p로 화질을 낮춤)
 
-[scrcpy](https://github.com/Genymobile/scrcpy)가 필요함. 
-
 메커니즘은 다음과 같음:
-1. scrcpy를 통해 폰의 화면을 컴에 미러링하고, 
+1. [scrcpy](https://github.com/Genymobile/scrcpy)를 통해 폰의 화면을 컴에 미러링하고, 
 2. openCV로 컴의 화면 중 일부분을 캡쳐하고, 
 3. 그 캡쳐 이미지 중 특정 부분의 픽셀값을 디텍트 해 '선착순'인지 확인하고, 
 4. '선착순'일 경우 pyautogui로 클릭하고, 
