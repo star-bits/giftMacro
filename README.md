@@ -1,6 +1,6 @@
 # giftMacro
 
-[시연 영상](https://youtu.be/bjQaods52NY) (단톡방 멤버들의 개인정보 보호를 위해 480p로 화질을 낮춤)
+https://github.com/user-attachments/assets/07a37fac-896b-4987-b112-7023e80e4f41
 
 메커니즘은 다음과 같음:
 1. [scrcpy](https://github.com/Genymobile/scrcpy)를 통해 폰의 화면을 컴에 미러링하고, 
